@@ -1,1 +1,32 @@
-heyo
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color:#ffff00;
+}
+img{
+	width: 100%;
+	height: auto;
+}
+h1{
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+	color: purple;
+}
+h2{
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+	color: purple;
+}
+h6{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+	color: purple;
+}
+p{
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+	color: purple;
+}
